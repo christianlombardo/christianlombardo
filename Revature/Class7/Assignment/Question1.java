@@ -1,4 +1,4 @@
-package Class7.Assignment;
+package Revature.Class7.Assignment;
 
 // Q1: Ask user to give two double input for length and breadth of a rectangle and print area type casted to int.
 

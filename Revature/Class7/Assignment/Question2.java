@@ -1,4 +1,4 @@
-package Class7.Assignment;
+package Revature.Class7.Assignment;
 
 // Q2: Take name, roll number and field of interest from user and print in the format below : Hey, my name is xyz and my roll number is xyz. My field of interest are xyz.
 
