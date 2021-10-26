@@ -85,7 +85,7 @@ public class Calculator {
             }
             catch (InputMismatchException e) {
                 System.out.println("Please enter the correct data format.");
-                break;
+                break;  // want a way to have this loop run continuously after the catch.
             }
         }
 
