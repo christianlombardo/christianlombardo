@@ -1,4 +1,4 @@
-package Class6.Assignment;
+package Revature.Class6.Assignment;
 
 // Written and Created by Christian Lombardo
 

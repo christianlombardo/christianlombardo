@@ -1,4 +1,4 @@
-package Class6.Assignment;
+package Revature.Class6.Assignment;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
