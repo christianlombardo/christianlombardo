@@ -18,6 +18,7 @@ package Class6.Assignment;
 
 // EMI = P × r × (1 + r)n/((1 + r)n - 1) where P= Loan amount, r= interest rate, n=tenure in number of months.
 // https://economictimes.indiatimes.com/analysis/what-is-emi-and-how-is-it-calculated/articleshow/39880530.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst
+// https://en.wikipedia.org/wiki/Equated_monthly_installment
 
 import java.util.Scanner;
 
